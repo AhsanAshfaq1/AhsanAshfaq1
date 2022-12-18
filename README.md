@@ -5,7 +5,7 @@
 <h3 align="center">Final Year Student at COMSATS University Islamabad.</h3>
 
 <br>
-
+<!-- 
 -  I'm a MERN Stack Developer. 
 -  Loves solving complex problems.
 -  I'm stuck in a loop :( 
@@ -40,4 +40,4 @@ module.exports = {
 };
 ```
 <br>
-<em><b>Eat - Code - Sleep </b> On Repeat 
+<em><b>Eat - Code - Sleep </b> On Repeat  -->
